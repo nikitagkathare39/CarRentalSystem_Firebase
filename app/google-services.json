@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033180946751",
+    "firebase_url": "https://rental-car-app-master-96dc8.firebaseio.com",
+    "project_id": "rental-car-app-master-96dc8",
+    "storage_bucket": "rental-car-app-master-96dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033180946751:android:fd93b28e5c2bad9850f38a",
+        "android_client_info": {
+          "package_name": "com.android.carrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033180946751-gltdehpg37vieka68kd7pjj4rjlcq539.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.carrental",
+            "certificate_hash": "9fcdac30c7cdb7a6c98c232c7118adfa004557a1"
+          }
+        },
+        {
+          "client_id": "1033180946751-n7ja29rhbd4224gbjkm3vpndtqve6te7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWXTFvBWLSk4Ta5VNgASokHl5ZYp6naE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033180946751-n7ja29rhbd4224gbjkm3vpndtqve6te7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

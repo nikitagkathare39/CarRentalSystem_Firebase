@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Car Rental</string>
+    <string name="date_label">Date</string>
+    <string name="start_time_label">Start Time</string>
+    <string name="end_time_label">End Time</string>
+    <string name="default_start_time">4:00 PM</string>
+    <string name="default_end_time">5:00 PM</string>
+    <string name="default_date">26 Apr 19</string>
+    <string name="search_cars">Search</string>
+    <string name="all_type_cars">All Type Cars</string>
+    <string name="rate_label">Rate</string>
+    <string name="default_rate">$8</string>
+    <string name="payment">Payment</string>
+    <string name="edit">Edit</string>
+    <string name="confirm_reservation">Confirm Reservation</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp Here!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="name">Full Name</string>
+    <string name="address_hint">Street Address</string>
+    <string name="phone_number">Phone</string>
+    <string name="card_id">#Card_ID that you received through email</string>
+    <string name="resend_card_id">Resend Card ID</string>
+    <string name="input_error_name">Name</string>
+    <string name="input_error_nick_name">Please enter your Nick Name</string>
+    <string name="input_error_email">Email</string>
+    <string name="input_error_email_invalid">Please enter a valid email address</string>
+    <string name="input_error_password">Please enter your password</string>
+    <string name="input_error_password_length">Password Length should be atleast 6 characters</string>
+    <string name="input_error">Please Fill the details</string>
+    <string name="address_street_hint">Street Address</string>
+    <string name="address_apt_number__hint">APT Number</string>
+    <string name="address_city_hint">City</string>
+    <string name="address_zipcode_hint">Zip Code</string>
+    <string name="title_registration">Registration</string>
+    <string name="car_name_hint">Car Name</string>
+    <string name="car_color_hint">Car Color</string>
+    <string name="car_number_hint">Car Number</string>
+    <string name="car_rate_hint">Car Rate</string>
+    <string name="save">Save</string>
+    <string name="all_types">All Types</string>
+    <string name="station_label">Station</string>
+    <string name="vehicle_type">Vehicle Type</string>
+
+    <string name="issue_label">Issue</string>
+    <string name="submit_label">SUBMIT</string>
+    =======
+    <string name="payment_add_message">Add Payment</string>
+
+
+    <!--guide-->
+    <string name="title_help">Guide to rent a car</string>
+    <string name="guide">Go to the home page where you can see   multiple stations that are present.\n\nChoose the station that is closest to you.\n\n
+Next,you enter the date and timings for which you want to rent a car.\n\n
+Dont forget to choose the type of car that you would like to rent.\n\n
+Review your order and confirm to reserve your car.</string>
+
+
+    <!--payment details string values-->
+    <string name="card_number">Card Number</string>
+    <string name="exp_date">Exp. Date</string>
+    <string name="cvv">Cvv</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="default_month">MM</string>
+    <string name="default_year">YYYY</string>
+    <string name="input_error_date_year">Please enter a valid year</string>
+    <string name="input_error_date_month">Please enter a valid month</string>
+    <string name="payment_exp_month_label">Exp. Month</string>
+    <string name="payment_exp_year_label">Exp. Year</string>
+
+
+    <!--my account string values-->
+    <string name="name_on_my_account">Name</string>
+    <string name="email_on_my_account">Email</string>
+    <string name="phone_on_my_account">Phone</string>
+    <string name="zip_on_my_account">Zip</string>
+    <string name="city_on_my_account">City</string>
+    <string name="street_on_my_account">Street</string>
+    <string name="apt_on_my_account">APT</string>
+
+    <!--booking details string values-->
+    <string name="extend_trip_label">Extend</string>
+    <string name="pickup_label">Pickup</string>
+    <string name="charges_label">Cost</string>
+    <string name="finish_trip_label">Finish</string>
+
+</resources>
+
+
+
